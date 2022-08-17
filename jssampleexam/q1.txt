@@ -1,0 +1,7 @@
+Q1) A) what is the eventloop ? 
+The event queue is responsible for sending new functions to the stack for processing.
+It follows the queue data structure to maintain the correct sequence in which all operations should be sent for execution.
+B)How do you add an element at the begining of an array? How do 
+you add one at the end?  
+push(): to add element to the end of the array.
+unshift() : add element to the begining of the array . 
